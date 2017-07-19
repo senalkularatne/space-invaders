@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF83485E-71C5-4B33-8177-5DB850D24B73</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iPhone Invaders</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E5C2D06542DC4A7C55F10037845118B5C3E67BF4</key>
+		<string>https://github.uc.edu/lee2bk/ios-final-project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iPhone Invaders.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E5C2D06542DC4A7C55F10037845118B5C3E67BF4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.uc.edu/lee2bk/ios-final-project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E5C2D06542DC4A7C55F10037845118B5C3E67BF4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E5C2D06542DC4A7C55F10037845118B5C3E67BF4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-final-project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
